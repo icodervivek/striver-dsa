@@ -1,7 +1,1 @@
-loop->
-do while
-while
-
-function->
-pass by value
-pass by reference
+time complexity
